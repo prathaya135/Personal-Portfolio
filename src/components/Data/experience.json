@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "IOT Developer",
+    "organisation": "Bharat Forge PVT Ltd",
+    "startDate": "Dec, 2023",
+    "endDate": "March, 2024",
+    "location": "Hadapsar,Pune",
+    "experiences": [
+      "I had work on the CDP Germany plant",
+      "Develope the Condition Monitoring dashboards in Germany"
+    ],
+    "imageSrc": "company/bharatforge.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Mern Stack Developer",
+    "organisation": "CodeClause PVT Ltd",
+    "startDate": "Nov, 2023",
+    "endDate": "Jan, 2024",
+    "location": "Pune",
+    "experiences": [
+      "worked on the News App project",
+      "Utilizing a combination of frontend and backend technologies"
+    ],
+    "imageSrc": "company/codeclause1.png"
+  },
+  {
+    "id": 3,
+    "role": "Machine Learning",
+    "organisation": "YBI Foundation",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov, 2023",
+    "location": "Online",
+    "experiences": [
+      "Worked on Sentiment Analysis on Social Media",
+      "Develop the Pipelining Model for text processing"
+    ],
+    "imageSrc": "company/Ybi.avif"
+  }
+]
